@@ -27,6 +27,7 @@ gor
 *.pcap
 
 .DS_Store
+.vscode/
 
 goreplay
 corpus
